@@ -1,0 +1,1 @@
+{"name":"Local: e_e","url":"c:\\Users\\hp\\Desktop\\icpc\\e_e.c","tests":[{"id":1697204918074,"input":"2\n4\n1 0 1 0\n7\n1 1 2 3 3 4 7","output":"Case 1: 6\nCase 2: 19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\icpc\\e_e.c","group":"local","local":true}
