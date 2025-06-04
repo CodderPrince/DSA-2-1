@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"c:\\Users\\hp\\Desktop\\icpc\\b.cpp","tests":[{"id":1697196373820,"input":"3\n2 2\n3 6\n4 24","output":"Case 1: 1\nCase 2: 5\nCase 3: 28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\icpc\\b.cpp","group":"local","local":true}
